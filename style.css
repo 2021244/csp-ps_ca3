@@ -7,7 +7,7 @@ body {
 }
 
 div {
-  border-radius: 13px;
+  border-radius: 30px;
 }
 
 #main {
@@ -23,7 +23,7 @@ div {
 .editable {
   user-select: none;
   outline: none;
-  margin: 7px;
+  margin: 16px;
   padding: 10px;
   cursor: pointer !important;
   display: flex;
@@ -42,7 +42,7 @@ div {
 
 .card {
   background: rgba(253, 119, 251, 0.212);
-  border-bottom: 1px solid #aaa;
+  border-bottom: 3px solid #aaa;
   color:gray;
 }
 
