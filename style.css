@@ -7,7 +7,7 @@ body {
 }
 
 div {
-  border-radius: 3px;
+  border-radius: 13px;
 }
 
 #main {
@@ -16,7 +16,8 @@ div {
 }
 
 .title {
-  font-weight: 600;
+  font-weight: 800;
+  color:rgb(198, 113, 113);
 }
 
 .editable {
@@ -31,7 +32,7 @@ div {
 
 .editing {
   background: white;
-  color: #172b4d !important;
+  color: #f21c2e !important;
   box-shadow:inset 0px 0px 0px 2px #02bf2b;
 }
 
@@ -40,8 +41,9 @@ div {
 }
 
 .card {
-  background: white;
+  background: rgba(253, 119, 251, 0.212);
   border-bottom: 1px solid #aaa;
+  color:gray;
 }
 
 .list {
