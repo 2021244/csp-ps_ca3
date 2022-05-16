@@ -1,9 +1,9 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #c1b422b8;
   background-color: pink;
   display: flex;
-  align-items: start;
 }
 
 div {
