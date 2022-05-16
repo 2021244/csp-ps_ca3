@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  color: #716b26b8;
+  color: #c1b422b8;
   background-color: pink;
   display: flex;
   align-items: start;
@@ -17,7 +17,7 @@ div {
 
 .title {
   font-weight: 800;
-  color:rgb(198, 113, 113);
+  color:rgb(180, 103, 103);
 }
 
 .editable {
@@ -41,9 +41,9 @@ div {
 }
 
 .card {
-  background: rgba(253, 119, 251, 0.212);
+  background: rgba(120, 133, 61, 0.11);
   border-bottom: 3px solid #aaa;
-  color:gray;
+  color:rgb(137, 84, 84);
 }
 
 .list {
@@ -80,7 +80,7 @@ div {
 }
 
 .add-card:hover {
-  background-color: rgba(9,30,66,.13);
+  background-color: rgba(18, 47, 97, 0.13);
 }
 
 .del {
